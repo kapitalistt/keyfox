@@ -27,7 +27,7 @@ First public release of **KeyFox**, a smart, fast and secure password manager th
 **SHA-256** of `keyfox-v1.0.0-win-x64.zip`:
 
 ```
-PASTE_HASH_HERE
+1756C4AC48E2FF3AFD73C2E18132C05BBF44FFC47C8AF27005295E37F9A993D7
 ```
 
 ### Quick start
