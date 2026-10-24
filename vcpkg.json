@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "keyfox",
+  "version": "1.0.0",
+  "description": "Console password manager for Windows",
+  "dependencies": [
+    "libsodium"
+  ]
+}

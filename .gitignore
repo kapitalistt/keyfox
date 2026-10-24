@@ -1,0 +1,14 @@
+build/
+out/
+.vs/
+.vscode/
+vcpkg_installed/
+CMakeUserPresets.json
+*.kfx
+*.kfx.bak
+*.kfx.tmp
+dist/
+*.zip
+*.user
+CMakeFiles/
+CMakeCache.txt
