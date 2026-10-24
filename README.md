@@ -59,7 +59,7 @@ It runs in the terminal as a polished full-screen interface with mouse support, 
 
 On first launch KeyFox offers to create a new vault at `%APPDATA%\KeyFox\vault.kfx`.
 
-> **Windows SmartScreen** may warn about an unsigned executable. You can verify the download against the SHA-256 checksum published with the release, or [build it yourself](BUILD.md).
+> **Windows SmartScreen** may warn about an unsigned executable. You can verify the download against the SHA-256 checksum published with the release, or build it yourself.
 
 Minimum terminal size: **96×28** characters.
 
@@ -162,7 +162,7 @@ cmake --build --preset release
 ctest --preset release
 ```
 
-The result is `build\release\keyfox.exe`. Full step-by-step guide for Visual Studio 2022 and VS Code, plus troubleshooting: **[BUILD.md](BUILD.md)**.
+The result is `build\release\keyfox.exe`.
 
 ## Project layout
 
