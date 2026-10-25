@@ -13,7 +13,7 @@ Full-screen TUI · animated · single portable `.exe` · no cloud, no telemetry
 
 <img src="docs/screenshots/main.png" alt="KeyFox main screen" width="820">
 
-[Download](../../releases/latest) · [Русская версия](README.ru.md)
+[Download](../../releases/latest)
 
 </div>
 
